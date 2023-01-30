@@ -1,5 +1,3 @@
-# Unmasked Faces With GANs
-
 # Description
 
 # Goals
