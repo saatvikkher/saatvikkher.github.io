@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# Research Wesbite
+# About Me
 
-...
+I am an undergraduate at [Pomona College](https://www.pomona.edu/), majoring in Computer Science and Mathematics and I plan to graduate this Spring. My research is in:
+- Improving the robustness and explainability of Machine Learning (ML) systems in practice
+- High-dimensional data: dimension reduction, inference, and nonparametric estimation
+- Missing data and causal inference: identification and estimation with data missing not at random
+
+In Summer '23, I participated in the [SMALL NSF REU](https://math.williams.edu/small/) at Williams College where I worked on improving the robustness and explainability of footwear impression matching for forensics. I have conducted research on missing policing data with [Prof. Jo Hardin](https://hardin47.netlify.app/). I was also a research assistant with the [play2PREVENT Lab](https://www.play2prevent.org/) at Yale School of Medicine.
+
+*Last updated on 12/1/23*
