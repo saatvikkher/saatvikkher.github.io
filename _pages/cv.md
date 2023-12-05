@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<embed src="https://saatvikkher.github.io/files/cv.pdf" type="application/pdf" />
