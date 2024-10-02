@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saatvik Kher"
 title_separator          : "-"
 name                     : &name "Saatvik Kher"
-description              : &description "Computer Science and Mathematics Major at Pomona College."
+description              : &description "PhD Student at University of California, Irvine."
 url                      : https://saatvikkher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saatvikkher.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Saatvik Kher"
   avatar           : "profile.png"
-  bio              : "Computer Science and Mathematics Major at Pomona College."
-  location         : "Claremont, CA"
+  bio              : "PhD Student at University of California, Irvine."
+  location         : "Irvine, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OXbFw1QAAAAJ&hl=en&oi=ao"
-  email            : "suka2020@mymail.pomona.edu"
+  email            : "sukher@uci.edu"
   researchgate     :  
   uri              :
   bitbucket        :
