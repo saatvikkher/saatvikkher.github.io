@@ -17,6 +17,6 @@ game data for predicting unhealthy substance use among adolescents. _Machine Lea
 
 #### MANUSCRIPTS (IN PREPARATION)
 * Divij Jain, __Saatvik Kher__, Lena Liang, Yufeng Wu, Ashley Zheng, Xizhen Cai, Anna Plantinga, Elizabeth
-Upton. Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching. _(under review)_. [repo](https://github.com/saatvikkher/SoleMate)
+Upton. Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching. _(under review)_. [arXiv](https://arxiv.org/abs/2405.14878) [repo](https://github.com/saatvikkher/SoleMate)
 
 * __Saatvik Kher__, Amber Lee, Johanna Hardin. Bias in Traffic Stops with Data Missing Not at Random. _(in preparation)_.
