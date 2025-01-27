@@ -14,6 +14,7 @@ Jiao, Isabella Gomati de la Vega, Feza Umutoni, Robert A. McDougal, Lynn E. Fiel
 
 ### ARTICLES
 * Jennifer Wyatt Bourgeois, Anna Haensch, __Saatvik Kher__, Dean Knox, Gregory Lanzalotto, Tian An Wong. How to Use Causal Inference to Study Use of Force. _CHANCE, 37(4), 6–10_. [paper](https://doi.org/10.1080/09332480.2024.2434435)
+
 ---
 
 #### MANUSCRIPTS (IN PREPARATION)
