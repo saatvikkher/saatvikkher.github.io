@@ -14,9 +14,9 @@ I am a 2nd-year Computer Science PhD student at the University of California, Ir
 - Model Selection and Evaluation of LLMs
 - Fairness
 - Online learning and Multi-armed bandit
-- Bayesian statistics
+- Human-AI interaction
 
-I am interested in creating AI that is safe, fair, and trustworthy.
+I am interested in creating AI that is safe, fair, and trustworthy. I am a data curator/librarian for the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) and a member of the [Steckler Center for Responsible, Ethical, and Accessible Technology](https://create.ics.uci.edu/). 
 
 I graduated from Pomona College, with a B.A. in Computer Science and Mathematics. Previously, I have conducted research as part of the [SMALL NSF REU](https://math.williams.edu/small/) and the [play2PREVENT Lab](https://www.play2prevent.org/) at Yale School of Medicine.
 
