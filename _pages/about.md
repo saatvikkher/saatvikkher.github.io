@@ -10,10 +10,14 @@ redirect_from:
 
 # About Me
 
-I am a Computer Science PhD student at the University of California, Irvine, where I am fortunate to be advised by [Dr. Padhraic Smyth](https://ics.uci.edu/~smyth/). My research is in:
-- Improving the fairness and explainability of Machine Learning algorithms
-- Missing data and causal inference: identification and estimation with data missing not at random
+I am a 2nd-year Computer Science PhD student at the University of California, Irvine, where I am fortunate to be advised by [Dr. Padhraic Smyth](https://ics.uci.edu/~smyth/). My research is in:
+- Model Selection and Evaluation of LLMs
+- Fairness
+- Online learning and Multi-armed bandit
+- Bayesian statistics
 
-I graduated from Pomona College, with a B.A. in Computer Science and Mathematics. In Summer '23, I participated in the [SMALL NSF REU](https://math.williams.edu/small/) at Williams College where I worked on improving the robustness and explainability of footwear impression matching for forensics in collaboration with [CSAFE](https://forensicstats.org/). I have conducted research on missing policing data with [Dr. Jo Hardin](https://hardin47.netlify.app/). I was also a research assistant with the [play2PREVENT Lab](https://www.play2prevent.org/) at Yale School of Medicine.
+I am interested in creating AI that is safe, fair, and trustworthy.
 
-*Last updated on 10/02/24*
+I graduated from Pomona College, with a B.A. in Computer Science and Mathematics. Previously, I have conducted research as part of the [SMALL NSF REU](https://math.williams.edu/small/) and the [play2PREVENT Lab](https://www.play2prevent.org/) at Yale School of Medicine.
+
+*Last updated on 10/27/25*
