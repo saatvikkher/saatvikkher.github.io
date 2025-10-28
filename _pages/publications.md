@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 
-
 * Rachel Longjohn, Shang Wu, Catarina G Belém, __Saatvik Kher__, Padhraic Smyth. [Bayesian Evaluation of Blackbox LLM Behavior](https://openreview.net/forum?id=QXYPTeE4gc). _NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle_.
 
 
