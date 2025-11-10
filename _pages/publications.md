@@ -18,7 +18,11 @@ Jiao, Isabella Gomati de la Vega, Feza Umutoni, Robert A. McDougal, Lynn E. Fiel
 ---
 
 #### MANUSCRIPTS (IN PREPARATION)
-* Divij Jain, __Saatvik Kher__, Lena Liang, Yufeng Wu, Ashley Zheng, Xizhen Cai, Anna Plantinga, Elizabeth
+* __Saatvik Kher__[^*], Hyungrok Do, Judy Zhong, Padhraic Smyth. Bayesian Online Selection of Fair Classifiers. _(under review)_.
+
+* Divij Jain, __Saatvik Kher__[^*], Lena Liang, Yufeng Wu, Ashley Zheng, Xizhen Cai, Anna Plantinga, Elizabeth
 Upton. [Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching](https://arxiv.org/abs/2405.14878). _(under review)_.  [Repository](https://github.com/saatvikkher/SoleMate)
 
-* __Saatvik Kher__, Amber Lee, Johanna Hardin. [Measuring the Impact of Missingness on Racial Bias in Traffic Stop Data](https://arxiv.org/pdf/2505.18281). _(under review)_.  [Repository](https://github.com/saatvikkher/missing-traffic)
+* __Saatvik Kher__[^*], Amber Lee, Johanna Hardin. [Measuring the Impact of Missingness on Racial Bias in Traffic Stop Data](https://arxiv.org/pdf/2505.18281). _(under review)_.  [Repository](https://github.com/saatvikkher/missing-traffic)
+
+[^*]: Work done as first author.
