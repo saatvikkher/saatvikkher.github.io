@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Rachel Longjohn, Shang Wu, Catarina G Belém, __Saatvik Kher__, Padhraic Smyth. [Bayesian Evaluation of Blackbox LLM Behavior](https://openreview.net/forum?id=QXYPTeE4gc). _NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle_.
+* Rachel Longjohn, Shang Wu, Catarina G Belém, __Saatvik Kher__, Padhraic Smyth. [Bayesian Evaluation of Large Language Model Behavior](https://arxiv.org/abs/2511.10661). _NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle_ [OpenReview](https://openreview.net/forum?id=QXYPTeE4gc).
 
 
 * Jennifer Wyatt Bourgeois, Anna Haensch, __Saatvik Kher__, Dean Knox, Gregory Lanzalotto, Tian An Wong. [How to Use Causal Inference to Study Use of Force](https://doi.org/10.1080/09332480.2024.2434435). _CHANCE, 37(4), 6–10_. 
@@ -18,9 +18,10 @@ Jiao, Isabella Gomati de la Vega, Feza Umutoni, Robert A. McDougal, Lynn E. Fiel
 ---
 
 #### MANUSCRIPTS (IN PREPARATION)
-* __Saatvik Kher__, Hyungrok Do, Judy Zhong, Padhraic Smyth. Bayesian Online Selection of Fair Classifiers. _(under review)_.
+* __Saatvik Kher__*, Hyungrok Do, Judy Zhong, Padhraic Smyth. Bayesian Online Selection of Fair Classifiers. _(under review)_.
 
-* Divij Jain, __Saatvik Kher__, Lena Liang, Yufeng Wu, Ashley Zheng, Xizhen Cai, Anna Plantinga, Elizabeth
+* Divij Jain*, __Saatvik Kher__\*, Lena Liang*, Yufeng Wu*, Ashley Zheng*, Xizhen Cai, Anna Plantinga, Elizabeth
 Upton. [Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching](https://arxiv.org/abs/2405.14878). _(under review)_.  [Repository](https://github.com/saatvikkher/SoleMate)
 
-* __Saatvik Kher__, Amber Lee, Johanna Hardin. [Measuring the Impact of Missingness on Racial Bias in Traffic Stop Data](https://arxiv.org/pdf/2505.18281). _(under review)_.  [Repository](https://github.com/saatvikkher/missing-traffic)
+* __Saatvik Kher__*, Amber Lee, Johanna Hardin. [Measuring the Impact of Missingness on Racial Bias in Traffic Stop Data](https://arxiv.org/pdf/2505.18281). _(under review)_.  [Repository](https://github.com/saatvikkher/missing-traffic)
+
