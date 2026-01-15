@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* __Saatvik Kher__*, Johanna Hardin. [Measuring the Impact of Missingness in Traffic Stop Data](https://doi.org/10.1162/99608f92.c45545cb). _Harvard Data Science Review_. 01/2026.  [Repository](https://github.com/saatvikkher/missing-traffic)
 
 * Rachel Longjohn, Shang Wu, __Saatvik Kher__, Catarina Belém, Padhraic Smyth. [Bayesian Evaluation of Large Language Model Behavior](https://arxiv.org/abs/2511.10661). _NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle_.
-
 
 * Jennifer Wyatt Bourgeois, Anna Haensch, __Saatvik Kher__, Dean Knox, Gregory Lanzalotto, Tian An Wong. [How to Use Causal Inference to Study Use of Force](https://doi.org/10.1080/09332480.2024.2434435). _CHANCE, 37(4), 6–10_. 
   
@@ -22,6 +22,3 @@ Jiao, Isabella Gomati de la Vega, Feza Umutoni, Robert A. McDougal, Lynn E. Fiel
 
 * Divij Jain, __Saatvik Kher__\*, Lena Liang, Yufeng Wu, Ashley Zheng, Xizhen Cai, Anna Plantinga, Elizabeth
 Upton. [Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching](https://arxiv.org/abs/2405.14878). _(under review)_.  [Repository](https://github.com/saatvikkher/SoleMate)
-
-* __Saatvik Kher__*, Amber Lee, Johanna Hardin. [Measuring the Impact of Missingness on Racial Bias in Traffic Stop Data](https://arxiv.org/pdf/2505.18281). _(under review)_.  [Repository](https://github.com/saatvikkher/missing-traffic)
-
